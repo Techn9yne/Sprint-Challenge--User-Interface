@@ -128,7 +128,7 @@ nav a{
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: cyan;
+    background:teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -138,7 +138,7 @@ nav a{
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
-    background:yellow;
+    background:gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -148,7 +148,7 @@ nav a{
 .middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
-    background:yellowgreen;
+    background:cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -158,7 +158,7 @@ nav a{
 .middle-content .boxes .box4{
     width: 12.5%;
     height: 100px;
-    background:peru;
+    background:coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -169,7 +169,7 @@ nav a{
 .middle-content .boxes .box5{
     width: 12.5%;
     height: 100px;
-    background:red;
+    background:crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -180,7 +180,7 @@ nav a{
 .middle-content .boxes .box6{
     width: 12.5%;
     height: 100px;
-    background: green;
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -190,7 +190,7 @@ nav a{
 .middle-content .boxes .box7{
     width: 12.5%;
     height: 100px;
-    background:purple;
+    background:darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -200,7 +200,7 @@ nav a{
 .middle-content .boxes .box8{
     width: 12.5%;
     height: 100px;
-    background: pink;
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -210,7 +210,7 @@ nav a{
 .middle-content .boxes .box9{
     width: 12.5%;
     height: 100px;
-    background:plum;
+    background:indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -220,7 +220,7 @@ nav a{
 .middle-content .boxes .box10{
     width: 12.5%;
     height: 100px;
-    background:blue;
+    background:dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
